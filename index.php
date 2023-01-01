@@ -1,3 +1,3 @@
 <?
- echo 'Hello, World! from Kenneth',
+ echo 'Hello, World! from Kenneth';
 ?>
